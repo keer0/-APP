@@ -5,6 +5,17 @@ body {
 	margin: 0px;
 	padding: 0px;
 }
+.mui-grid-view.mui-grid-9{
+	background-color: white;
+	margin-top: 10px;
+}
+.mui-grid-view.mui-grid-9 .mui-table-view-cell{
+	border: none;
+}
+.mui-grid-view.mui-grid-9 p{
+	font-size: 15px;
+	margin: 10px;
+}
 .mui-content{height: 100%;}
 .top-nav{
 	width: 100%;
